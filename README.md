@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I am [Atour](https://www.linkedin.com/in/atour-mousavi/), check out my [GitHub](https://github.com/amousavigourabi)!
+I am [Atour](https://www.linkedin.com/in/atour-mousavi/), check out my [GitHub](https://github.com/amousavigourabi/) and [LinkedIn](https://www.linkedin.com/in/atour-mousavi/)!
 
 ## About me
 
