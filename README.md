@@ -4,7 +4,7 @@ I am [Atour](https://www.linkedin.com/in/atour-mousavi/), check out my [GitHub](
 
 ## About me
 
-- 👷 Working with `.java`, `.ts`, `.py`, `.jl`, `.hs`
+- 👷 Working with `.java`, `.ts`, `.py`, `.jl`, `.hs`, `.svelte`
 - 🌱 Interested in stochastics and language
 - 🛩️ Love to travel
 - 💬 Talk to me about distributed computing and the cloud
@@ -24,3 +24,9 @@ I am [Atour](https://www.linkedin.com/in/atour-mousavi/), check out my [GitHub](
 - 2024, [Netherlands-Asia Honours Summer School](https://www.nahss.nl/en/) in Hong Kong, HK 🇭🇰 and Ho Chi Minh City, VN 🇻🇳
 - 2024, Lecture Series Human Rights at [Leiden University](https://www.universiteitleiden.nl/en) in Leiden, NL 🇳🇱
 - 2020, [Certificate of Proficiency (C2)](https://www.cambridgeenglish.org/exams-and-tests/qualifications/proficiency/) from Cambridge English 🇬🇧
+
+## Volunteering
+
+- 2025, Treasurer of [ICPC BAPC](https://2025.bapc.eu/) via W.I.S.V. CH in Delft, NL 🇳🇱
+- 2024, Treasurer of [ICPC NWERC](https://2024.nwerc.eu/index.html) via W.I.S.V. CH in Delft, NL 🇳🇱
+- 2024, Chair of the Dutch National Student Bouldering Championship via the [NSAC](https://nsac.alpenclub.nl/) in Leiden, NL 🇳🇱
