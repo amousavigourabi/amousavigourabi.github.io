@@ -27,7 +27,7 @@ I am [Atour](https://www.linkedin.com/in/atour-mousavi/), check out my [GitHub](
 
 ## Volunteering
 
-- 2024&ndash;2026, Treasurer of [CHipCie](https://chipcie.wisv.ch/) at [WISV CH](https://ch.tudelft.nl/) in Delft, NL 🇳🇱
+- 2024&ndash;2026, Treasurer of the [CHipCie](https://chipcie.wisv.ch/) committee at [WISV CH](https://ch.tudelft.nl/) in Delft, NL 🇳🇱
 - 2025, Treasurer of [ICPC BAPC](https://2025.bapc.eu/) via [WISV CH](https://ch.tudelft.nl/) in Delft, NL 🇳🇱
 - 2024, Treasurer of [ICPC NWERC](https://2024.nwerc.eu/index.html) via [WISV CH](https://ch.tudelft.nl/) in Delft, NL 🇳🇱
 - 2024, Chair of the Dutch National Student Bouldering Championships via the [NSAC](https://nsac.alpenclub.nl/) and [LSAC](https://lsac.alpenclub.nl/) in Leiden, NL 🇳🇱
