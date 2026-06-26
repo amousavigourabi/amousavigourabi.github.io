@@ -20,7 +20,7 @@ I am [Atour](https://www.linkedin.com/in/atour-mousavi/), check out my [GitHub](
 
 ## Education
 
-- 2026 (expected), Bachelor of Science in Computer Science and Engineering at [TU Delft](https://www.tudelft.nl/) in Delft, NL 🇳🇱
+- 2026, Bachelor of Science in Computer Science and Engineering at [TU Delft](https://www.tudelft.nl/) in Delft, NL 🇳🇱
 - 2024, [Netherlands-Asia Honours Summer School](https://www.nahss.nl/en/) in Hong Kong, HK 🇭🇰 and Ho Chi Minh City, VN 🇻🇳
 - 2024, Lecture Series Human Rights at [Leiden University](https://www.universiteitleiden.nl/en) in Leiden, NL 🇳🇱
 - 2020, [Certificate of Proficiency (C2)](https://www.cambridgeenglish.org/exams-and-tests/qualifications/proficiency/) from Cambridge English 🇬🇧
