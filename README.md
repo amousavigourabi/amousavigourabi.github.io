@@ -12,10 +12,10 @@ I am [Atour](https://www.linkedin.com/in/atour-mousavi/), check out my [GitHub](
 
 ## Experience
 
-- September 2025&ndash;now, Software Engineering at [Booking.com](https://booking.com/) in Amsterdam, NL 🇳🇱
+- September 2025&ndash;now, Junior Software Engineer II at [Booking.com](https://booking.com/) in Amsterdam, NL 🇳🇱
 - March&ndash;September 2024, Student Consultant at the [Dutch Ministry of Education, Culture, and Science](https://www.rijksoverheid.nl/ministeries/ministerie-van-onderwijs-cultuur-en-wetenschap) 🇳🇱
 - April&ndash;July 2024, Software Development Engineer Intern at [Amazon Web Services](https://aws.amazon.com/) in Dublin, IE 🇮🇪
-- November&ndash;December 2023, Research Assistant at [TU Delft Programming Languages Group](https://pl.ewi.tudelft.nl/) in Delft, NL 🇳🇱
+- November&ndash;December 2023, Research Assistant at the [TU Delft Programming Languages Group](https://pl.ewi.tudelft.nl/) in Delft, NL 🇳🇱
 - April&ndash;July 2023, Software Engineer Intern at [ASML](https://www.asml.com/en) 🇳🇱
 
 ## Education
