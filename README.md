@@ -4,7 +4,7 @@ I am [Atour](https://www.linkedin.com/in/atour-mousavi/), check out my [GitHub](
 
 ## About me
 
-- 👷 Working with `.java`, `.ts`, `.py`, `.jl`, `.hs`, and `.svelte`
+- 👷 Working with `.java`, `.ts`, `.rs`, `.jl`, and `.svelte`
 - 🌱 Interested in stochastics and language
 - 🛩️ Love to travel
 - 💬 Talk to me about distributed computing and the cloud
@@ -12,7 +12,7 @@ I am [Atour](https://www.linkedin.com/in/atour-mousavi/), check out my [GitHub](
 
 ## Experience
 
-- September 2025&ndash;now, Junior Software Engineer II at [Booking.com](https://booking.com/) in Amsterdam, NL 🇳🇱
+- September 2025&ndash;September 2026, Junior Software Engineer II at [Booking.com](https://booking.com/) in Amsterdam, NL 🇳🇱
 - March&ndash;September 2024, Student Consultant at the [Dutch Ministry of Education, Culture, and Science](https://www.rijksoverheid.nl/ministeries/ministerie-van-onderwijs-cultuur-en-wetenschap) 🇳🇱
 - April&ndash;July 2024, Software Development Engineer Intern at [Amazon Web Services](https://aws.amazon.com/) in Dublin, IE 🇮🇪
 - November&ndash;December 2023, Research Assistant at the [TU Delft Programming Languages Group](https://pl.ewi.tudelft.nl/) in Delft, NL 🇳🇱
